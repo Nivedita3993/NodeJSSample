@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "username": "Nivedita",
+  "todolist": [
+    {
+      "isDone": false,
+      "taskID": "task2",
+      "taskDesc": "Learn and use NgRx in the application"
+    }
+  ]
+}
